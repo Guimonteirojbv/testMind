@@ -1,13 +1,8 @@
-# Adonis API application
-
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
-
+#Backend utilizando adonis
+1- cadastro de usuario
+2- Com e-mail ou cpf
+3- senha criptografada
+4- token para recuperação de senha
 ## Setup
 
 Use the adonis command to install the blueprint
